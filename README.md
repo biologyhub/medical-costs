@@ -1,3 +1,21 @@
+# Why is drug design so expensive?
+
+## Drug modalities <sup>4</sup>
+- small molecules
+- antibodies
+- antibody drug conjugates and cells
+  - either alone or in combination.
+
+## Current methods and knowledge
+- https://blogs.sciencemag.org/pipeline/archives/2012/04/27/how_do_drugs_get_into_cells_a_vicious_debate
+- https://blogs.sciencemag.org/pipeline/archives/2008/12/10/floppiness_is_not_your_friend_who_knew
+- https://blogs.sciencemag.org/pipeline/archives/2018/05/22/how-to-be-a-good-medicinal-chemist
+- https://blogs.sciencemag.org/pipeline/archives/2012/06/08/lessons_for_a_new_medicinal_chemist
+- How do drugs get into cells?
+  - https://www.sciencedirect.com/science/article/abs/pii/S1359644611001693
+- A Magic Methyl Spotted in the Wild
+  - https://blogs.sciencemag.org/pipeline/archives/2018/11/07/a-magic-methyl-spotted-in-the-wild
+
 ## To read
 - https://www.nature.com/articles/d41573-019-00074-z
 - https://blogs.sciencemag.org/pipeline/archives/2020/09/23/new-drugs-and-new-structures

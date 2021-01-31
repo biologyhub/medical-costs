@@ -13,4 +13,5 @@
     - And that, to me, is the second most important figure in the pharmaceutical industry, showing just how much we don’t know about what we’re doing.
     - What targets to pick, what else they might do when we affect them, what other things our compounds might do when we try: find a way to understand and predict those things better and everything changes.
 7. It’s for sure that some of the hottest research areas right now (such as bifunctional protein degraders) can produce some rather off-the-beaten-track structures. So how do we reconcile these? Can we be making innovative drugs using a bunch of boring reactions? [3]
-8. There are just so many more neat little functionalized compounds available now; it’s become an entire business of its own. [4]
+8. There are just so many more neat little functionalized compounds available now; it’s become an entire business of its own. [3]
+9. 
