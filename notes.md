@@ -14,4 +14,8 @@
     - What targets to pick, what else they might do when we affect them, what other things our compounds might do when we try: find a way to understand and predict those things better and everything changes.
 7. It’s for sure that some of the hottest research areas right now (such as bifunctional protein degraders) can produce some rather off-the-beaten-track structures. So how do we reconcile these? Can we be making innovative drugs using a bunch of boring reactions? [3]
 8. There are just so many more neat little functionalized compounds available now; it’s become an entire business of its own. [3]
-9. 
+9. The simple fact is that we still haven't figured out the workings of biological systems - the human body in this case - to an extent that allows us to rationally and predictably modify, mitigate or cure their ills using small organic molecules. [5]
+10. Firstly, it takes a lot of sleuthing and arduous biochemical and genetic experimentation to find out if a particular protein is in fact a major contributor to a disease. [5]
+11. But even if the protein's role in causing disease is established, not every protein can then actually bind to a synthetic small molecule and be modulated by it. [5]
+12. Reason 1: Drugs work by modulating the function of proteins. It's difficult to find out exactly which proteins are involved in a disease. Even if these proteins are found, it is difficult then to know if their activity can be controlled by a small molecule drug. [5]
+13. Reason 2: Since nature has not really optimized its proteins for binding to drugs, it is very difficult to find a hit for a protein even after searching through millions of molecules, either natural or artificial. And even when a hit is discovered, we don't know for sure how to turn it into a drug with favorable properties. [6]
