@@ -12,18 +12,18 @@
 1. Target identification
 2. Target validation
 3. Hit discovery
-  - Assay development and screening
-  - High throughput screening
+    - Assay development and screening
+    - High throughput screening
 
 ### Part II: Discovery
 1. Hit to lead
 2. Lead optimization
-  - selectively hit the target
-  - can be safely absorbed by the body
-  - reach the appropriate point in the body to find the target
-  - remain in the system long enough to have an effect
-  - can be manufactured to produce a stable preparation convenient to use
-  - well-tolerated with few side effects
+    - selectively hit the target
+    - can be safely absorbed by the body
+    - reach the appropriate point in the body to find the target
+    - remain in the system long enough to have an effect
+    - can be manufactured to produce a stable preparation convenient to use
+    - well-tolerated with few side effects
 
 ### Part III: Preclinical studies
 1. _in vitro_ and _in vivo_ assays
