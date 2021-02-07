@@ -1,0 +1,72 @@
+\documentclass{article}
+
+\usepackage{enumitem}
+\setlist[enumerate]{noitemsep}
+\setlist[itemize]{noitemsep}
+
+\usepackage[
+  backend=biber
+]{biblatex}
+\addbibresource{references.bib}
+
+\title{Navigating the U.S. healthcare system}
+\author{Matthew Feng}
+
+\begin{document}
+
+\maketitle
+
+\section{An overview of the U.S. healthcare system}
+
+There are nine types of hospitals in the United States:
+
+\begin{enumerate}
+
+\item Short-term acute care hospitals
+\item Long-term acute care hospitals
+\item Children’s hospitals
+\item Critical access hospitals
+\item Psychiatric hospitals
+\item Rehabilitation hospitals
+\item VA (Veterans Administration) hospitals
+\item Department of Defense hospitals
+\item Religious non-medical health care institutions
+
+\end{enumerate}
+
+
+A {\bf payer} (sometimes spelled {\bf payor}) is the entity responsible for processing patient eligibility, services, claims, enrollment, and payment \cite{defhealth-payers}. In other words, the {\bf payer to a health care provider} is the organization that
+
+\begin{itemize}
+\item negotiates or sets rates for provider services
+\item collects revenue through premium payments or tax dollars
+\item processes provider claims for service, and
+\item pays provider claims using collected premium or tax revenues.
+\end{itemize}
+
+Payers include:
+
+\begin{itemize}
+\item Preferred Provider Organizations (PPOs)
+\item Health Maintenance Organizations (HMOs)
+\item healthcare service contractors
+\item state insurance agencies
+\item claim handlers
+\item and more
+\end{itemize}
+
+\section{How prices are set}
+
+The hospital {\bf charge master} (also known as the {\bf chargemaster}, or sometimes {\bf charge description master (CDM)}) is a table that lists each procedure (identified by a {\bf procedure code}) with its {\bf base price}, similar to the MSRP price listed for everyday purchases. Because the charge master price is the MSRP price, patients often pay a lower price, one that is negotiated by the payor (the insurance company).
+
+In a simple diagram, the price paid by the patient is derived as: base price $\rightarrow$ payor-negotiated price $\rightarrow$ deductible (the ``balance bill'').
+
+\section{The different kinds of health insurance}
+
+\section{Finding the hospital with the best care}
+
+\section{The multi-objective optimization problem: a guide}
+
+\printbibliography
+
+\end{document}

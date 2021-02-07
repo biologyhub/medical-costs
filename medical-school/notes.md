@@ -26,6 +26,7 @@
 - https://www.schoolmoney.org/college-tuition-where-does-the-money-go/
 - https://www.statnews.com/2020/07/21/lower-cost-producing-doctors-not-just-price-medical-school/
 - The cost, price, and debt of medical education.NJEM.2020.pdf
+- https://www.quora.com/Why-is-medical-school-admission-highly-limited
 
 ## References
 1. https://www.medpagetoday.com/special-reports/exclusives/81172
