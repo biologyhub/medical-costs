@@ -28,6 +28,9 @@
 - The cost, price, and debt of medical education.NJEM.2020.pdf
 - https://www.quora.com/Why-is-medical-school-admission-highly-limited
 - https://med.nyu.edu/education/md-degree/md-curriculum/
+- https://www.hopkinsmedicine.org/human_resources/_docs/FY14_annual_report.pdf
+- https://finance.jhu.edu/reports_guides/financial_reports/AnnualReport2019.pdf
+- https://lcme.org/directory/accredited-u-s-programs/
 
 ## References
 1. https://www.medpagetoday.com/special-reports/exclusives/81172

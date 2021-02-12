@@ -1,13 +1,26 @@
 \documentclass{article}
 
+\usepackage[dvipsnames]{xcolor}
+
 \usepackage{enumitem}
 \setlist[enumerate]{noitemsep}
 \setlist[itemize]{noitemsep}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=magenta,      
+  urlcolor=cyan,
+}
 
 \usepackage[
   backend=biber
 ]{biblatex}
 \addbibresource{references.bib}
+
+\usepackage{amsmath}
+\usepackage[many]{tcolorbox}
 
 \title{Navigating the U.S. healthcare system}
 \author{Matthew Feng}
@@ -55,17 +68,105 @@ Payers include:
 \item and more
 \end{itemize}
 
+\paragraph{coder}
+
+\paragraph{inpatient and outpatient care}
+
+\subsection{An overview of American health insurance}
+
+\paragraph{premium} A health insurance plan's {\bf premium} is the name for the amount you pay for your health insurance each month. Premiums from all health insurance plan holders are pooled together to pay the medical bills of the sick.
+
+\paragraph{copayment (copay)}
+
+\paragraph{deductible}
+
+\paragraph{healthcare provider} A {\bf healthcare provider}. Sometimes, this work is mistaken used to refer to your health insurance (your plan) or your health insurer (the company), but {\bf healthcare provider} only refers to those who provide healthcare services to you. All of the following are healthcare providers:
+
+\begin{itemize}
+\item primary care physician (PCP)
+\item physical therapists
+\item hospitals where you receive inpatient care
+\item urgent care clinics
+\item pharmacies that provide your medication
+\item medical imaging facility (e.g. for mammograms, X-rays, MRI scans)
+\item outpatient surgery clinic
+\item laboratory that ``does your blood work'' (i.e. draws and processes your blood tests)
+  \begin{itemize}
+    \item LabCorp
+    \item Quest Diagnostics
+  \end{itemize}
+\end{itemize}
+
+\paragraph{network (provider network)} Your health insurer's {\bf provider network} (e.g. Anthem's provider network) is the group of healthcare providers (e.g. doctors, specialists, pharmacies) with whom your insurer has a contract with; these healthcare providers {\it will accept your insurance} and have often agreed to charge the insurance company lower prices.
+
+These providers are called {\bf network providers} or {\bf in-network providers}. A provider that has not contracted with the insurance company is called an {\bf out-of-network provider} \cite{provider-networks}.
+
+Your health insurance company may also have different provider networks for different health insurance plans. In this case, we may speak of a ``plan's provider network'' rather than the ``health insurer's provider network.'' For example, \href{https://www.fchp.org/}{Fallon Health}, a Massachusetts-based health insurance company, has different provider networks for different plans, marketed separately as ``Direct Care'', ``Select Care'', and ``Preferred Care'' networks.
+
+\section{About the different kinds of healthcare providers}
+
+\paragraph{physician (``the doctor'')}
+
+\paragraph{physician assistant (PA)}
+
+\paragraph{nurse practitioner (NP)}
+
+\subsection{The different areas of medicine}
+
+\subsubsection{Internal medicine (``internists'')}
+
+
+\subsubsection{Family medicine} \cite{what-is-family-medicine}
+
+\begin{tcolorbox}[colframe=Melon, colback=Melon!30]
+\paragraph{What's the difference between internal medicine and family medicine?} \cite{diff-bt-internal-family}
+\end{tcolorbox}
+
 \section{How prices are set}
 
 The hospital {\bf charge master} (also known as the {\bf chargemaster}, or sometimes {\bf charge description master (CDM)}) is a table that lists each procedure (identified by a {\bf procedure code}) with its {\bf base price}, similar to the MSRP price listed for everyday purchases. Because the charge master price is the MSRP price, patients often pay a lower price, one that is negotiated by the payor (the insurance company).
 
 In a simple diagram, the price paid by the patient is derived as: base price $\rightarrow$ payor-negotiated price $\rightarrow$ deductible (the ``balance bill'').
 
-\section{The different kinds of health insurance}
+This means that the most consolidated the hospital system, the higher a price they can demand. At the same time, they are limited by what an insurance company is willing to pay, contingent that the insurer is large enough (carries enough business) for the hospital system to care.
+
+\section{Health insurance}
+
+\subsection{The health insurance landscape}
+
+\subsubsection{Blue Cross Blue Shield Association (BCBSA)}
+
+First and foremost: BCBSA is {\bf not a health insurance company}; it is a {\it federation} of 36 {\it separate} health insurance companies.
+
+\paragraph{Health Care Service Corporation (HCSC)}
+
+\begin{itemize}
+\item Anthem
+\item Cigna
+\item Aetna
+\item UnitedHealth
+\item EmblemHealth
+\item Humana
+\end{itemize}
+
+\subsection{The different types of health insurance plans}
+
+\begin{itemize}
+\item Health Maintenance Organization (HMO)
+\item Preferred Provider Organization (PPO)
+\item Exclusive Provider Organization (EPO)
+\item Point of Service (POS)
+\item Higher Deductible Health Plans (HDHP)
+\item Catastrophic Plans
+\end{itemize}
+
+\subsubsection{The ``metals'': health insurance plan tiers}
 
 \section{Finding the hospital with the best care}
 
 \section{The multi-objective optimization problem: a guide}
+
+\section{Useful ways to save money}
 
 \printbibliography
 
