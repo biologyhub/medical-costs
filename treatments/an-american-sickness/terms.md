@@ -1,0 +1,14 @@
+- Three alphanumeric coding languages
+  - **Current Procedural Terminology**. Indicate medical services
+    - **Current Procedural (Terminology) Code Manual**.
+  - **International Statistical Classification of Diseases, Injuries, and Causes of Death (ICD)**. Indicate diagnoses.
+    - U.S. version is called ICD-CM.
+  - **Healthcare Common Procedure Coding System (HCPCS)**.
+- **Resource-based Relative Value Scale (RBRVS)**. A scale that determines the "work value" (a.k.a. a fair price) for each procedure luisted in the **Current Procedural Code Manual**.
+- **Relative Value Scale Update Committee (RUC)**. An AMA committee that convenes thrice annually to adjust the value of codes in the **RBRVS**.
+- **Ambulatory surgery centers (ASC)**. An ASC is an out-patient facility that provides surgical services to a wide variety of patients. Theoretically cheaper, ASCs have been abused to increase profits for doctors via "facility fees."
+- **"No Patient Contact" (NPC) specialists**.
+- **Emergency Medical Treatment and Labor Act of 1986 (EMTALA)**. Federal mandate that forced hospitals to provide emergency care to patients regardless of ability to pay.
+- **Physician extender**.
+- **Freestanding ERs**.
+- **Explanation of Benefits (EOB) statement.**
