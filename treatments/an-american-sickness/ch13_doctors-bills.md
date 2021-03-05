@@ -1,43 +1,14 @@
-# Part 2: Diagnosis and treatment
+# Chapter 13. Doctor's Bills (20-30% of $3T bill)
 
-Prescriptions for taking back our healthcare.
-
-## (12) The high price of patient complacency
-
-### General tools that underpin low costs of healthcare elsewhere
-
-#### Fee schedules and national price negotiations
-- Larger buyer = larger negotiating power
-- Administrative costs
-  - In the United States, doctors spend one-sixth of their time on administration
-  - Medical practices hire extra staff to wrangle with insurers
-- National fee schedule does not preclude private insurance
-
-#### Single-payer
-- Used in
-  - Canada
-  - Australia
-  - Taiwan
-- Socialized healthcare, where hospitals, insurance, and major healthcare infrastructure are state-owned
-  - Denmark
-  - Great Britain
-
-#### Market-based tools of transparency and competition
-- Singapore
-  - Most hospitals are public (state-owned)
-  - Private hospitals exist, but they need to charge accordingly because the state's offerings are quite good
-  - Government limits purchases of expensive machines that end up overused.
-
-## (13) Doctor's Bills (20-30% of $3T bill)
 - Ask why tests are being ordered
 - Challenge large numbers on the bill
 - Doctors may resist and resent being questioned
   - Reduce their income
   - Reduce their sense of authority
 
-### What you can start doing now
+## What you can start doing now
 
-#### Choosing your doctor
+### Choosing your doctor
 - Is the practice owned by a hospital or licensed as a surgery center?
   - Yes? You may pay for outrageous facility fees.
   - Can also specifically ask if a "facility fee" will be billed.
@@ -62,6 +33,3 @@ Prescriptions for taking back our healthcare.
 
 ### System change: what we want from doctors
 
-
-
-## (14) Hospital bills (40-50% of $3T bill)
